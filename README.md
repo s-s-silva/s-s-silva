@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 <div>
   <a href = "https://beacons.ai/rafaballerini">
-    <img src= "https://github-readme.stats.vercel.app/api/top-langs/?username=s-s-silva&layout=compact&langs_count=16&theme=dracula"/>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?s-s-silva=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+    
 </div>
