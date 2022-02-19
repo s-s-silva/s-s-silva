@@ -1,4 +1,4 @@
-### Bem vindo :metal_brown:
+### Bem vindo :metal:
 
 <!--
 **s-s-silva/s-s-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
