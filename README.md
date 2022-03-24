@@ -19,6 +19,8 @@ Here are some ideas to get you started:
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=s-s-silva&layout=compact&theme=dracula")](https://github.com/anuraghazra/github-readme-stats"/> 
 </div>
 
+# :email: Contato:
+
 <div>
     <a href = "https://www.linkedin.com/in/stefanie-soares-049a491b7/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"></a>
 </div>
