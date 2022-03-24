@@ -1,4 +1,4 @@
-### Bem vindo :rocket:
+### Bem vindo :octocat:
 
 <!--
 **s-s-silva/s-s-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 #### Sou iniciante e apaixonada pela área tech :cupid:
 
-#### Atualmente estou estudando front-end, mas continuo curiosa e aberta para as outras áreas que a ciência e tecnologia pode me proporcionar :bulb:
+##### :seedling: Atualmente estudando front-end
+##### :bulb: Curiosa e aberta para outras áreas que a ciência e a tecnologia pode me proporcionar 
+##### 🤸🏽‍♂️ Treino 
+##### 🍺 Cervejeira nas horas vagas
 
 <div>
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=s-s-silva&layout=compact&theme=dracula")](https://github.com/anuraghazra/github-readme-stats"/> 
