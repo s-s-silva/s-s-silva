@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<!--     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=s-s-silva&langs_count=8&theme=dracula")](https://github.com/anuraghazra/github-readme-stats"/> -->
-    
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=s-s-silva&layout=compact&theme=dracula")](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=s-s-silva&langs_count=8&theme=dracula")](https://github.com/anuraghazra/github-readme-stats"/> 
 </div>
