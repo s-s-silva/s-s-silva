@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Sou iniciante e apaixonada pela área tech :cupid:
+
 <div>
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=s-s-silva&layout=compact&theme=dracula")](https://github.com/anuraghazra/github-readme-stats"/> 
 </div>
