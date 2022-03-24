@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ##### :seedling: Atualmente estudando front-end
 ##### :bulb: Curiosa e aberta para outras áreas que a ciência e a tecnologia pode me proporcionar 
 ##### 🤸🏽‍♂️ Treino 
-##### 🍺 Cervejeira nas horas vagas
+##### :octocat: Dona de gatinhos
 
 <div>
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=s-s-silva&layout=compact&theme=dracula")](https://github.com/anuraghazra/github-readme-stats"/> 
