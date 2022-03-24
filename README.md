@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Sou iniciante e apaixonada pela área tech :cupid: 
 
 :seedling: Atualmente estudando front-end <br>
-:bulb: Curiosa e aberta para outras áreas que a ciência e a tecnologia pode me proporcionar <br>
+:bulb: Curiosa e aberta para o que a ciência e a tecnologia pode me proporcionar <br>
 🤸🏽‍♂️ Treino <br>
 :octocat: Sou dona de gatinhos <br>
 🛸 Moro com três amigos <br> 
