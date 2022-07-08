@@ -19,9 +19,7 @@ Sou iniciante e apaixonada pela área tech :cupid:
 
 :seedling: Atualmente estudando front-end <br>
 :bulb: Curiosa e aberta para o que a ciência e a tecnologia tem para me proporcionar <br>
-🤸🏽‍♂️ Treino <br>
-:octocat: Sou dona de gatinhos <br>
-🛸 Moro com três amigos <br> 
+
 
 <div>
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=s-s-silva&layout=compact&theme=dracula")](https://github.com/anuraghazra/github-readme-stats"/> 
