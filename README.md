@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <a href = "mailto:ss.silva@unifesp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
-:ledger: Estudante de Ciência e Tecnologia com especificação em Ciencia da Computação na <a href="https://www.unifesp.br/campus/sjc/">Universidade Federal de São Paulo</a> <br>
-🤖 Atualmente trabalho como desenvolvedora back-end <br>
+- Estudante de Ciência e Tecnologia com especificação em Ciencia da Computação na <a href="https://www.unifesp.br/campus/sjc/">Universidade Federal de São Paulo</a> <br>
+- Desenvolvedora back-end na Avanade, focada em .NET Framework e C#<br>
  
  
 <div align=center>
