@@ -39,6 +39,7 @@ Here are some ideas to get you started:
                                                                                                                                      
 # <p align=center> Certificações Microsoft 
 
+- Microsoft Azure Data Fundamentals (DP-900)
 - Microsoft Power Platform Fundamentals (PL-900)
 - Introduction to Programming Using HTML and CSS
 - Introduction to Programming Using JavaScript
